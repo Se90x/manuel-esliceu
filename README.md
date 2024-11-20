@@ -17,16 +17,16 @@ El contenido del repositorio está organizado en carpetas temáticas para facili
 - **📁 Apuntes FOL**: Documentos y recursos relacionados con la Formación y Orientación Laboral.
    - Prevención de Riesgos
 - **📁 Redes**: Ejercicios y configuraciones para prácticas de redes.
-                  -Configuraciones 
-                  -Topologías
+   - Configuraciones 
+   - Topologías
 - **📁 Sistemas**: Documentación y scripts para la gestión de sistemas operativos.
-                  ejemplos: `nmap`, `chmod` , `ufw` , `john`. Muchos mas!.
+   - ejemplos: `nmap`, `chmod` , `ufw` , `john`. Muchos mas!.
 - **📁 Ofimática**: Materiales y ejemplos de uso de herramientas ofimáticas.
-                  -Documentos Word
-                  -Presentaciones 
+   - Documentos Word
+   - Presentaciones 
 - **📁 Montaje**: Recursos sobre montaje y mantenimiento de equipos.
-                  -Componentes
-                  -Ensamblaje
+   - Componentes
+   - Ensamblaje
 
 ---
 
