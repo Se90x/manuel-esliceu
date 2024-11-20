@@ -15,7 +15,7 @@ El contenido del repositorio está organizado en carpetas temáticas para facili
 
 
 - **📁 Apuntes FOL**: Documentos y recursos relacionados con la Formación y Orientación Laboral.
-                   -Prevención de Riesgos
+- Prevención de Riesgos
 - **📁 Redes**: Ejercicios y configuraciones para prácticas de redes.
                   -Configuraciones 
                   -Topologías
