@@ -37,9 +37,9 @@ El contenido del repositorio está organizado en carpetas temáticas para facili
 Este repositorio tiene como finalidad:
 
 
-1. Proporcionar recursos y materiales didácticos organizados.
-2. Facilitar el aprendizaje práctico con ejemplos y ejercicios.
-3. Promover la colaboración entre estudiantes y docentes.
+>1. Proporcionar recursos y materiales didácticos organizados.
+>2. Facilitar el aprendizaje práctico con ejemplos y ejercicios.
+>3. Promover la colaboración entre estudiantes y docentes.
 
 
 ---
