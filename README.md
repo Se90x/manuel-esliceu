@@ -1,4 +1,3 @@
-# manuel-esliceu
 # 📚 Manuel Es Liceu
 
 
